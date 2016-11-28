@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:padding="8dp"
+    android:gravity="center">
+    <ImageView android:id="@+id/gv_image"
+        android:layout_width="60pt"
+        android:layout_height="60pt">
+    </ImageView>
+    <TextView
+        android:layout_height="match_parent"
+        android:layout_width="match_parent"
+        android:id="@+id/gv_text"
+        android:textSize="8pt"
+        android:textColor="#0099ff"
+        android:gravity="center"
+        android:textStyle="bold"
+        android:paddingTop = "2dp"
+        android:paddingBottom = "2dp">
+    </TextView>
+</LinearLayout>

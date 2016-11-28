@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    app:layout_behavior="@string/appbar_scrolling_view_behavior"
+    tools:context=".MainActivity"
+    android:weightSum="1"
+    android:background="#E6E5C4"
+    tools:showIn="@layout/activity_main"
+    android:baselineAligned="true"
+    android:textAppearance="?android:textAppearanceMedium"
+    android:id="@+id/id_content_main">
+    <!--<Button
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:padding="10sp"
+        android:text=" Jump to Map"
+        android:id="@+id/button_to_map" />-->
+
+    <Button
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/emergency_text"
+        android:textAppearance="?android:textAppearanceMedium"
+        android:gravity="center"
+        android:text="@string/emergency_number"
+        android:textColor="#000000"
+        android:background="#dddddd"/>
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal"
+        android:id="@+id/button_bar"
+        android:baselineAligned="false"
+        android:background="#6699ff">
+        <Button
+            android:id="@+id/military_button"
+            android:text="@string/military_training_office"
+            style="@style/button_bar"/>
+
+        <Button
+            android:id="@+id/front_security_button"
+            android:text="@string/front_security"
+            style="@style/button_bar"/>
+
+        <Button
+            android:id="@+id/back_security_button"
+            android:text="@string/back_security"
+            style="@style/button_bar"/>
+
+        <Button
+            android:id="@+id/health_button"
+            android:text="@string/healthCenter"
+            style="@style/button_bar" />
+    </LinearLayout>
+</LinearLayout>

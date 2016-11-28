@@ -1,0 +1,142 @@
+<resources>
+    <string name="app_name">NCU Map Wiki</string>
+    <string name="search_title">Enter a person name or unit name</string>
+    <string name="submit_title">Submit</string>
+    <string name="close">close</string>
+    <string name="action_settings">Settings</string>
+    <string name="category_default">Common Categories</string>
+    <string name="category_customized">Customized Categories</string>
+    <string name="emergency_number">Emergency Numbers</string>
+    <string name="front_security">Campus Security (front)</string>
+    <string name="back_security">Campus Security (rear)</string>
+    <string name="military_training_office">Office of Military Training</string>
+    <string name="healthCenter">Health Center</string>
+    <string name="navigation_drawer_open">open</string>
+    <string name="navigation_drawer_close">close</string>
+
+    <string-array name="imgText">
+        <item>Wheelchair Ramp</item>
+        <item>Disabled Car Parking</item>
+        <item>Disabled Motor Parking</item>
+        <item>Emergency</item>
+        <item>AED</item>
+        <item>Restaurant</item>
+        <item>Sport Recreation</item>
+        <item>Administration</item>
+        <item>Research</item>
+        <item>Dormitory</item>
+        <item>Other</item>
+        <item>Toilet</item>
+        <item>ATM</item>
+        <item>Bus Station</item>
+        <item>Parking Lot</item>
+    </string-array>
+    <string name="drawer">Profile</string>
+    <string name="drawer1">My customized categories</string>
+    <string name="drawer2">NCU Campus Map</string>
+    <string name="drawer3">About NCU Map wiki</string>
+    <string name="drawer4">Opinions and Feedback</string>
+    <string name="drawer_in">Log in</string>
+    <string name="drawer_out">Log out</string>
+    <string name="user_login">Logged-in users:</string>
+    <string name="profile_name">Name: </string>
+    <string name="profile_id">ID: </string>
+    <string name="profile_title">Title: </string>
+    <string name="profile_unit">Unit or Department: </string>
+    <string name="profile_group">Group: </string>
+    <string name="emailTitle">Letter of opinions and feedback</string>
+    <string name="Logout">Succeed to log out!</string>
+
+    <string name="network_unreachable">Network is unreachable.</string>
+    <string name="open_network_message">To use NCU Map, internet connection is required. Please go to settings and turn mobile networks or Wi-Fi on.</string>
+    <string name="loading_map">Map is loading</string>
+    <string name="map_information">Information of location</string>
+    <string name="refresh">Refresh Done!</string>
+
+    <string name="add_location">Add a location</string>
+    <string name="modify_location">Modify a location</string>
+    <string name="delete_location">Delete a location</string>
+    <string name="add_tag">Add a tag</string>
+    <string name="modify_tag">Modify a tag</string>
+    <string name="delete_tag">Delete a tag</string>
+
+    <string name="add_location_fail">Fail to add a location</string>
+    <string name="modify_location_fail">Fail to modify a location</string>
+    <string name="delete_location_fail">Fail to delete a location</string>
+    <string name="add_tag_fail">Fail to add a tag</string>
+    <string name="modify_tag_fail">Fail to modify a tag</string>
+    <string name="delete_tag_fail">Fail to delete a tag</string>
+
+    <string name="confirm">Confirm</string>
+    <string name="cancel">Cancel</string>
+    <string name="download">Download</string>
+    <string name="location_message_add">You just added a location</string>
+    <string name="location_message_modify">You just modified a location</string>
+    <string name="location_message_delete">You just deleted a location</string>
+    <string name="location_message_add_cancel">You just canceled to add a location</string>
+    <string name="location_message_modify_cancel">You just canceled to modify a location</string>
+    <string name="location_message_delete_cancel">You just canceled to delete a location</string>
+    <string name="diolog_information"></string>
+    <string name="tag_message_add">You just added a tag</string>
+    <string name="tag_message_modify">You just modified a tag</string>
+    <string name="tag_message_delete">You just deleted a tag</string>
+    <string name="tag_message_add_cancel">You just canceled to add a tag</string>
+    <string name="tag_message_modify_cancel">You just canceled to modify a tag</string>
+    <string name="tag_message_delete_cancel">You just canceled to delete a tag</string>
+    //dialog
+    <string name="location_chinese_name">Location (Chinese name): </string>
+    <string name="location_english_name">Location (English name): </string>
+    <string name="location_description">Description: </string>
+    <string name="tag_name">Tag name: </string>
+    <string name="description">Description</string>
+    <string name="photo">Photo (url)</string>
+    <string name="photo_uploading">photo uploading</string>
+    <string name="delete_location_message">Do you confirm to delete the location?</string>
+    <string name="delete_tag_message">Do you confirm to delete the tag?</string>
+
+    <string name="remind_login_add_tag">Remind: You can add a tag. Please click upper left icon to log in first!</string>
+    <string name="remind_login_modify_tag">Remind: You can modify a tag. Please click upper left icon to log in first!</string>
+    <string name="remind_login_add_location">Remind: You can add a location. Please click upper left icon to log in first!</string>
+    <string name="remind_login_modify_location">Remind: You can modify a location. Please click upper left icon to log in first!</string>
+    <string name="remind_login">Remind: Please click upper left icon to log in first!</string>
+    <string name="remind_log_out">Do you confirm to log out?</string>
+    <string name="login_state">You are in the state of logging in!</string>
+    <string name="login_fail">Fail to log in. Please check whether your account and password correct or not.</string>
+    <string name="log_out">Message: log out</string>
+    <string name="logout_cancel">You just canceled to log out</string>
+
+    <string name="version">Version: v2</string>
+    <string name="license">License: MIT License</string>
+    <string name="owner">Owner:National Central University, Computer Center</string>
+    <string name="github">Github: </string>
+    <string name="github_link">https://github.com/NCU-CC/NCUMapWiki</string>
+    <string name="contributor">Contributor: </string>
+    <string name="contributor_link">https://github.com/cherry28</string>
+    <string name="school_url">Url: </string>
+    <string name="school_url_link">http://www.cc.ncu.edu.tw</string>
+    <string name="email">E-mail: </string>
+    <string name="email_link">mobile@cc.ncu.edu.tw</string>
+
+    <string name="url">http://140.115.3.188:80/location/v2/</string>
+    <string name="google_maps_key">AIzaSyD_pmWaf26JvCR_haNzMXuKIOgr08BpRF0</string>
+    <string name="apiToken">bda89db9758b19789a2b0eaf95570bb1affa84b403d99eb744cdd97e9676c43d4945115af0ae678aa4cb1370f00ebe2273bd435357eb23d6cfab93d0f9e9c180</string>
+    <string name="credential_file_name">credential.file</string>
+    <string name="auth_endpoint_path">http://140.115.3.188/oauth/oauth/authorize</string>
+    <string name="token_endpoint_path">http://140.115.3.188/oauth/oauth/token</string>
+    <string name="client_id">YzM0MGI3MjEtM2EwYS00MmVkLWIxOGYtZTBiZWUwMmUwODdl</string>
+    <string name="client_secret">10620a5e2f616cf49ff9de17fb9aea02fe4d168c330febed3d7c3d6fc29c05ad1053c2a6fa9db9bb294321debaddbc0641edf8e87cc3e2583295a504e2dc1cdc</string>
+    <string name="callback">https://github.com/NCU-CC</string>
+    <string name="scope">user.Info.basic.read</string>
+    <string-array name="drawer_menu">
+        <item>Apple</item>
+        <item>Book</item>
+        <item>Cat</item>
+        <item>Dog</item>
+        <item>Eagle</item>
+        <item>Food</item>
+        <item>God</item>
+        <item>House</item>
+        <item>Iron</item>
+        <item>Jingle</item>
+    </string-array>
+</resources>

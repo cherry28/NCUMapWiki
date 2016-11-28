@@ -1,0 +1,11 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools">
+    <item
+        android:id="@+id/map_category"
+        android:title=""
+        android:layout_alignParentLeft="true"
+        app:showAsAction="ifRoom|withText"/>
+
+
+</menu>

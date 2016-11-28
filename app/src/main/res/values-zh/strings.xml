@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">中大維基地圖</string>
+    <string name="search_title">請輸入地標名稱或地標名稱</string>
+    <string name="submit_title">提交</string>
+    <string name="close">關閉</string>
+    <string name="action_settings">設定</string>
+    <string name="category_default">一般種類</string>
+    <string name="category_customized">使用者自訂種類</string>
+    <string name="emergency_number">緊急連絡電話</string>
+    <string name="front_security">前門駐警隊</string>
+    <string name="back_security">後門駐警隊</string>
+    <string name="military_training_office">軍訓室</string>
+    <string name="healthCenter">衛保中心</string>
+
+    <string name="drawer1">我的自訂種類</string>
+    <string name="drawer2">中大校園導覽圖</string>
+    <string name="drawer3">關於中大地圖wiki</string>
+    <string name="drawer4">意見說明與回饋</string>
+    <string name="drawer_in">登入</string>
+    <string name="drawer_out">登出</string>
+    <string name="user_login">登入的使用者:</string>
+    <string name="emailTitle">意見反映與回饋信件</string>
+    <string name="Logout">成功登出!</string>
+
+    <string-array name="imgText">
+        <item>無障礙坡道</item>
+        <item>無障礙汽車位</item>
+        <item>無障礙機車位</item>
+        <item>緊急</item>
+        <item>自動體外心臟去顫器</item>
+        <item>餐廳</item>
+        <item>休閒生活</item>
+        <item>行政服務</item>
+        <item>教學研究</item>
+        <item>宿舍</item>
+        <item>其他單位</item>
+        <item>廁所</item>
+        <item>提款機</item>
+        <item>公車站牌</item>
+        <item>停車場</item>
+    </string-array>
+
+    <string name="open_network_message">您必須要有網路連線，才能使用中大地圖。請至設定開啟行動網路或Wifi</string>
+    <string name="loading_map">正在載入地圖</string>
+    <string name="map_information">地標基本資訊</string>
+    <string name="refresh">更新完成</string>
+
+    <string name="add_location">新增地點</string>
+    <string name="modify_location">修改地點</string>
+    <string name="delete_location">刪除地點</string>
+    <string name="add_tag">新增標籤</string>
+    <string name="modify_tag">修改標籤</string>
+    <string name="delete_tag">刪除標籤</string>
+
+    <string name="add_location_fail">新增地點失敗</string>
+    <string name="modify_location_fail">修改地點失敗</string>
+    <string name="delete_location_fail">刪除地點失敗</string>
+    <string name="add_tag_fail">新增標籤失敗</string>
+    <string name="modify_tag_fail">修改標籤失敗</string>
+    <string name="delete_tag_fail">刪除標籤失敗</string>
+
+    <string name="confirm">確認</string>
+    <string name="cancel">取消</string>
+    <string name="download">下載</string>
+    <string name="location_message_add">你已成功新增 地標</string>
+    <string name="location_message_modify">你已成功修改 地標</string>
+    <string name="location_message_delete">你已成功刪除 地標</string>
+    <string name="location_message_add_cancel">你已取消新增 地標</string>
+    <string name="location_message_modify_cancel">你已取消修改 地標</string>
+    <string name="location_message_delete_cancel">你已取消刪除 地標</string>
+
+    <string name="tag_message_add">你已成功新增 標籤</string>
+    <string name="tag_message_modify">你已成功修改 標籤</string>
+    <string name="tag_message_delete">你已成功刪除 標籤</string>
+    <string name="tag_message_add_cancel">你已取消新增 標籤</string>
+    <string name="tag_message_modify_cancel">你已取消修改 標籤</string>
+    <string name="tag_message_delete_cancel">你已取消刪除 標籤</string>
+
+    //dialog
+    <string name="location_chinese_name">地點(中文名稱): </string>
+    <string name="location_english_name">地點(英文名稱): </string>
+    <string name="location_description">地點描述: </string>
+    <string name="tag_name">標籤名稱: </string>
+    <string name="description">地點描述</string>
+    <string name="photo">照片上傳(url)</string>
+    <string name="photo_uploading">從檔案尋找</string>
+    <string name="delete_location_message">請問你確定要刪除此地標嗎？</string>
+    <string name="delete_tag_message">請問你確定要刪除此標籤嗎？</string>
+
+    <string name="remind_login_add_tag">提醒：新增標籤 請按左上角作登入</string>
+    <string name="remind_login_modify_tag">提醒：修改和刪除標籤 請按左上角作登入</string>
+    <string name="remind_login_add_location">提醒：新增地標 請按左上角作登入</string>
+    <string name="remind_login_modify_location">提醒：修改和刪除地標 請按左上角作登入</string>
+    <string name="remind_login">提醒：請按左上角作登入</string>
+    <string name="remind_log_out">請問你確定要登出嗎？</string>
+    <string name="login_state">您現在是登入狀態!</string>
+    <string name="login_fail">登入失敗，請確認帳號密碼無誤</string>
+    <string name="log_out">訊息：登出</string>
+    <string name="logout_cancel">您已取消登出</string>
+
+    <string name="version">Version: v2</string>
+    <string name="license">License: MIT License</string>
+    <string name="owner">Owner:中央大學電子計算機中心</string>
+    <string name="github">Github: </string>
+    <string name="github_link">https://github.com/NCU-CC/NCUMapWiki</string>
+    <string name="contributor">Contributor: </string>
+    <string name="contributor_link">https://github.com/cherry28</string>
+    <string name="school_url">Url: </string>
+    <string name="school_url_link">http://www.cc.ncu.edu.tw</string>
+    <string name="email">E-mail: </string>
+    <string name="email_link">mobile@cc.ncu.edu.tw</string>
+
+    <string name="url">http://140.115.189.151:9292/location/v2/</string>
+    <string name="google_maps_key">AIzaSyD_pmWaf26JvCR_haNzMXuKIOgr08BpRF0</string>
+    <string name="apiToken">bda89db9758b19789a2b0eaf95570bb1affa84b403d99eb744cdd97e9676c43d4945115af0ae678aa4cb1370f00ebe2273bd435357eb23d6cfab93d0f9e9c180</string>
+    <string name="credential_file_name">credential.file</string>
+    <string name="auth_endpoint_path">http://140.115.3.188/oauth/oauth/authorize</string>
+    <string name="token_endpoint_path">http://140.115.3.188/oauth/oauth/token</string>
+    <string name="client_id">YzM0MGI3MjEtM2EwYS00MmVkLWIxOGYtZTBiZWUwMmUwODdl</string>
+    <string name="client_secret">10620a5e2f616cf49ff9de17fb9aea02fe4d168c330febed3d7c3d6fc29c05ad1053c2a6fa9db9bb294321debaddbc0641edf8e87cc3e2583295a504e2dc1cdc</string>
+    <string name="callback">https://github.com/NCU-CC</string>
+    <string name="scope">user.Info.basic.read</string>
+</resources>
