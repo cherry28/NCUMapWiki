@@ -1,3 +1,2 @@
-# NCUMapWiki
-NCU-MAPWiki
+NCU-MAP-Wiki
 =======
